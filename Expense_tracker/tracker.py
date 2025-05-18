@@ -6,6 +6,7 @@ import datetime
 def main():
     print("Expense Tracker")
     path = "Expense_tracker/expenses.csv"
+    budget = 2000
 
     while True:
         # Get input
